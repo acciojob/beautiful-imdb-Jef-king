@@ -11,12 +11,12 @@ h1{
 	font-size:50px;
 	text-align:center;
 }
-img{
+.img{
 	width:80%;
 	height:auto;
 	opacity:.9
 }
-p{
+.p{
 	width:500px;
 	position:relative;
 	font-style:italic;
