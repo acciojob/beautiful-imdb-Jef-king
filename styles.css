@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:gray;
+	margin:10px;
+	
+}
+h1{
+	color:red;
+	font-weight:1000;
+	font-size:50px;
+	text-align:center;
+}
+img{
+	width:80%;
+	height:auto;
+	opacity:.9
+}
+p{
+	width:500px;
+	position:relative;
+	font-style:italic;
+	font-weight:600;
+	font-size:20px;
+	top:0px;
+	text-align:justify;
+}
